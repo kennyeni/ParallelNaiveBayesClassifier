@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2"
+   name=""
+   committed-date="2007-09-20T03:43:08.085139Z"
+   url="https://plists.googlecode.com/svn/trunk"
+   last-author="freeyourmind"
+   kind="dir"
+   uuid="28f427db-873a-0410-9a61-e1d9927bd6ba"
+   repos="https://plists.googlecode.com/svn"
+   revision="2"/>
+<entry
+   name="test"
+   kind="dir"/>
+<entry
+   committed-rev="2"
+   name="LICENSE"
+   text-time="2007-09-20T03:59:19.000000Z"
+   committed-date="2007-09-20T03:43:08.085139Z"
+   checksum="6e6ea98fe3032286dd064a138f06fc75"
+   last-author="freeyourmind"
+   kind="file"
+   prop-time="2007-09-20T03:59:18.000000Z"/>
+<entry
+   committed-rev="2"
+   name="Emakefile"
+   text-time="2007-09-20T03:59:19.000000Z"
+   committed-date="2007-09-20T03:43:08.085139Z"
+   checksum="35e0eb6a75a0d60081e902565969a3fb"
+   last-author="freeyourmind"
+   kind="file"
+   prop-time="2007-09-20T03:59:18.000000Z"/>
+<entry
+   name="doc"
+   kind="dir"/>
+<entry
+   committed-rev="2"
+   name="make.sh"
+   text-time="2007-09-20T03:59:19.000000Z"
+   committed-date="2007-09-20T03:43:08.085139Z"
+   checksum="49c7d0d10deab03edaeba33b6f539b78"
+   last-author="freeyourmind"
+   kind="file"
+   prop-time="2007-09-20T03:59:19.000000Z"/>
+<entry
+   name="src"
+   kind="dir"/>
+<entry
+   name="ebin"
+   kind="dir"/>
+</wc-entries>

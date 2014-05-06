@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2"
+   name=""
+   committed-date="2007-09-20T03:43:08.085139Z"
+   url="https://plists.googlecode.com/svn/trunk/src"
+   last-author="freeyourmind"
+   kind="dir"
+   uuid="28f427db-873a-0410-9a61-e1d9927bd6ba"
+   repos="https://plists.googlecode.com/svn"
+   revision="2"/>
+<entry
+   committed-rev="3"
+   name="plists.erl"
+   text-time="2007-09-20T03:59:35.000000Z"
+   committed-date="2007-09-20T04:00:39.147964Z"
+   checksum="d21678e77b879346ada45160c5ab21d0"
+   last-author="freeyourmind"
+   kind="file"
+   prop-time="2007-09-20T03:59:19.000000Z"
+   revision="3"/>
+</wc-entries>

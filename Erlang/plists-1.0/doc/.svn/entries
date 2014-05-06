@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2"
+   name=""
+   committed-date="2007-09-20T03:43:08.085139Z"
+   url="https://plists.googlecode.com/svn/trunk/doc"
+   last-author="freeyourmind"
+   kind="dir"
+   uuid="28f427db-873a-0410-9a61-e1d9927bd6ba"
+   repos="https://plists.googlecode.com/svn"
+   revision="2"/>
+<entry
+   committed-rev="2"
+   name="overview.edoc"
+   text-time="2007-09-20T03:59:19.000000Z"
+   committed-date="2007-09-20T03:43:08.085139Z"
+   checksum="605dd9df7fcfff0c147f9b52e650427a"
+   last-author="freeyourmind"
+   kind="file"
+   prop-time="2007-09-20T03:59:18.000000Z"/>
+<entry
+   committed-rev="2"
+   name="stylesheet.css"
+   text-time="2007-09-20T03:59:19.000000Z"
+   committed-date="2007-09-20T03:43:08.085139Z"
+   checksum="6e11b8ef1d68117868228d9fd1e4fce9"
+   last-author="freeyourmind"
+   kind="file"
+   prop-time="2007-09-20T03:59:18.000000Z"/>
+<entry
+   committed-rev="3"
+   name="plists.html"
+   text-time="2007-09-20T03:59:44.000000Z"
+   committed-date="2007-09-20T04:00:39.147964Z"
+   checksum="679cc74d53d1e1b8eabc629918facb5a"
+   last-author="freeyourmind"
+   kind="file"
+   prop-time="2007-09-20T03:59:19.000000Z"
+   revision="3"/>
+<entry
+   committed-rev="2"
+   name="modules-frame.html"
+   text-time="2007-09-20T03:59:19.000000Z"
+   committed-date="2007-09-20T03:43:08.085139Z"
+   checksum="cfb2837d21858d4d88dd66ac812741eb"
+   last-author="freeyourmind"
+   kind="file"
+   prop-time="2007-09-20T03:59:19.000000Z"/>
+<entry
+   committed-rev="2"
+   name="edoc-info"
+   text-time="2007-09-20T03:59:19.000000Z"
+   committed-date="2007-09-20T03:43:08.085139Z"
+   checksum="a2ce34bab9e04d61e188e1229ab26492"
+   last-author="freeyourmind"
+   kind="file"
+   prop-time="2007-09-20T03:59:19.000000Z"/>
+<entry
+   committed-rev="2"
+   name="overview-summary.html"
+   text-time="2007-09-20T03:59:19.000000Z"
+   committed-date="2007-09-20T03:43:08.085139Z"
+   checksum="212512768e1cd028064ef138f8f48095"
+   last-author="freeyourmind"
+   kind="file"
+   prop-time="2007-09-20T03:59:19.000000Z"/>
+<entry
+   committed-rev="2"
+   name="make.sh"
+   text-time="2007-09-20T03:59:19.000000Z"
+   committed-date="2007-09-20T03:43:08.085139Z"
+   checksum="44173725c18aebc23930cbb8ab65680e"
+   last-author="freeyourmind"
+   kind="file"
+   prop-time="2007-09-20T03:59:19.000000Z"/>
+<entry
+   committed-rev="2"
+   name="packages-frame.html"
+   text-time="2007-09-20T03:59:19.000000Z"
+   committed-date="2007-09-20T03:43:08.085139Z"
+   checksum="2c77711f1aedf2d0bacacc3fbda56084"
+   last-author="freeyourmind"
+   kind="file"
+   prop-time="2007-09-20T03:59:19.000000Z"/>
+<entry
+   committed-rev="2"
+   name="index.html"
+   text-time="2007-09-20T03:59:19.000000Z"
+   committed-date="2007-09-20T03:43:08.085139Z"
+   checksum="81f5eb4bc1ffabd2c85f18e6f46464f9"
+   last-author="freeyourmind"
+   kind="file"
+   prop-time="2007-09-20T03:59:19.000000Z"/>
+<entry
+   committed-rev="2"
+   name="erlang.png"
+   text-time="2007-09-20T03:59:19.000000Z"
+   committed-date="2007-09-20T03:43:08.085139Z"
+   checksum="f6077f849b23033f1533877a2f236bd6"
+   last-author="freeyourmind"
+   kind="file"
+   prop-time="2007-09-20T03:59:19.000000Z"/>
+<entry
+   committed-rev="2"
+   name="README"
+   text-time="2007-09-20T03:59:19.000000Z"
+   committed-date="2007-09-20T03:43:08.085139Z"
+   checksum="dd63b0a96bdde769d395e3355750eac1"
+   last-author="freeyourmind"
+   kind="file"
+   prop-time="2007-09-20T03:59:19.000000Z"/>
+</wc-entries>
